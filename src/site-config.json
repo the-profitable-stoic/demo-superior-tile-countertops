@@ -1,0 +1,572 @@
+{
+  "business": {
+    "name": "Superior Tile & Countertops",
+    "phone": "+16613405162",
+    "category": "flooring contractor",
+    "city": "Bakersfield",
+    "state": "CA"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-mountain-bold",
+      "categoryGroup": "roofing",
+      "name": "Mountain Bold",
+      "recipeFile": "roofing/mountain-bold.astro",
+      "colors": {
+        "primary": "#1A3A52",
+        "primaryDark": "#0F2436",
+        "primaryLight": "#C8DDE8",
+        "secondary": "#2D5F7C",
+        "accent": "#FFC600",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#1A3A52",
+        "surface": "#F0F4F7",
+        "text": "#0F172A",
+        "textLight": "#64748B",
+        "textOnDark": "#FFFFFF",
+        "border": "#D1D5DB"
+      },
+      "typography": {
+        "headingFont": "Plus Jakarta Sans",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "8px",
+        "buttonRadius": "8px",
+        "cardRadius": "12px",
+        "shadowStyle": "medium"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/mountain-bold"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Flooring Done Right, Guaranteed.",
+      "heroSubline": "Superior Tile & Countertops delivers exceptional flooring solutions across Bakersfield. Expert installation and unparalleled customer service, every time.",
+      "aboutTitle": "Bakersfield's Trusted Flooring Experts",
+      "aboutText": [
+        "Superior Tile & Countertops started with a simple goal: to provide Bakersfield with reliable, high-quality flooring services. Founded by a team of seasoned professionals, we've built our reputation on hard work and a commitment to exceeding expectations.",
+        "We believe in a customer-first approach. From the initial consultation to the final inspection, we're dedicated to clear communication, meticulous craftsmanship, and lasting results. We treat every project, big or small, with the same level of care and attention.",
+        "As a local business, we're invested in the Bakersfield community. We source materials locally whenever possible, supporting other businesses and contributing to the economic well-being of our region. We strive to be a responsible and valued member of our community."
+      ],
+      "valueProps": [
+        {
+          "title": "Expert Installation",
+          "description": "Our skilled installers ensure precise and durable flooring that stands the test of time."
+        },
+        {
+          "title": "Wide Selection",
+          "description": "Choose from a vast array of tile, hardwood, laminate, and more to match your style and budget."
+        },
+        {
+          "title": "Guaranteed Quality",
+          "description": "We stand behind our work with comprehensive warranties and a commitment to your satisfaction."
+        },
+        {
+          "title": "Free Estimates",
+          "description": "Get a clear and accurate estimate for your project, with no hidden fees or surprises."
+        }
+      ],
+      "ctaHeadline": "Ready to Transform Your Floors?",
+      "ctaSubline": "Contact Superior Tile & Countertops today for a free consultation and estimate. Let's bring your vision to life."
+    },
+    "services": [
+      {
+        "slug": "tile-installation",
+        "name": "Tile Installation",
+        "shortDescription": "Precision tile installation for kitchens, bathrooms, and beyond.",
+        "description": "Tile installation requires a delicate balance of artistry and technical skill. In Bakersfield's climate, proper substrate preparation and grout selection are crucial to prevent cracking and water damage. We specialize in installing all types of tile, including ceramic, porcelain, slate, and glass. Our team meticulously prepares the subfloor, ensuring a level and stable surface for the tile. We then use premium adhesives and grouts to create a durable and visually stunning finish. Whether you're renovating a bathroom in Oleander-Sunset or updating your kitchen in Seven Oaks, we have the expertise to handle any tile project. We work closely with you to select the perfect tile and design a layout that complements your space. Our attention to detail ensures that every tile is perfectly aligned and grouted, creating a seamless and long-lasting surface. We also offer tile repair and replacement services to address any existing issues.",
+        "process": [
+          "Step 1: Consultation and Design Planning",
+          "Step 2: Subfloor Preparation and Leveling",
+          "Step 3: Precise Tile Cutting and Layout",
+          "Step 4: Expert Installation and Grouting"
+        ],
+        "benefits": [
+          "Enhanced aesthetics and value",
+          "Durable and long-lasting surface",
+          "Water resistance for bathrooms and kitchens",
+          "Easy to clean and maintain"
+        ],
+        "faq": [
+          {
+            "question": "What types of tile do you install?",
+            "answer": "We install a wide variety of tile, including ceramic, porcelain, glass, slate, and natural stone. We can help you choose the best tile for your specific needs and budget."
+          },
+          {
+            "question": "How long does tile installation take?",
+            "answer": "The duration of tile installation depends on the size and complexity of the project. We provide a detailed timeline during the consultation phase and keep you informed throughout the process."
+          },
+          {
+            "question": "Do you offer tile repair services?",
+            "answer": "Yes, we offer tile repair and replacement services to address cracked, chipped, or damaged tiles. We can also repair grout and address any water damage issues."
+          }
+        ]
+      },
+      {
+        "slug": "hardwood-flooring",
+        "name": "Hardwood Flooring",
+        "shortDescription": "Timeless hardwood flooring installation and refinishing services.",
+        "description": "Hardwood flooring adds warmth and elegance to any home. In Bakersfield, where homes range from older residences near the Crystal Palace to newer developments further out, hardwood can be a versatile choice. We offer a wide selection of hardwood species, finishes, and styles to match your taste and budget. Our experienced installers ensure a precise and durable installation, taking into account the unique challenges of Bakersfield's climate. We also provide hardwood refinishing services to restore the beauty of existing floors. Our refinishing process includes sanding, staining, and sealing to create a smooth and lustrous finish. We use dustless sanding equipment to minimize mess and disruption to your home. Whether you're looking to install new hardwood floors or restore existing ones, we have the expertise to deliver exceptional results. We understand the importance of proper acclimation and moisture control to prevent warping and cracking in Bakersfield's dry climate.",
+        "process": [
+          "Step 1: Wood Selection and Acclimation",
+          "Step 2: Subfloor Preparation and Inspection",
+          "Step 3: Precise Hardwood Installation",
+          "Step 4: Sanding, Staining, and Sealing"
+        ],
+        "benefits": [
+          "Increased home value and appeal",
+          "Durable and long-lasting surface",
+          "Warm and inviting aesthetic",
+          "Easy to clean and maintain"
+        ],
+        "faq": [
+          {
+            "question": "What types of hardwood flooring do you offer?",
+            "answer": "We offer a wide variety of hardwood flooring, including solid hardwood, engineered hardwood, and bamboo. We can help you choose the best option for your specific needs and budget."
+          },
+          {
+            "question": "How long does hardwood flooring installation take?",
+            "answer": "The duration of hardwood flooring installation depends on the size and complexity of the project. We provide a detailed timeline during the consultation phase."
+          },
+          {
+            "question": "Do you offer hardwood refinishing services?",
+            "answer": "Yes, we offer hardwood refinishing services to restore the beauty of existing floors. Our refinishing process includes sanding, staining, and sealing."
+          }
+        ]
+      },
+      {
+        "slug": "laminate-flooring",
+        "name": "Laminate Flooring",
+        "shortDescription": "Affordable and durable laminate flooring solutions for any room.",
+        "description": "Laminate flooring is a cost-effective and versatile alternative to hardwood. It's a great option for Bakersfield homeowners looking for a durable and easy-to-maintain floor. We offer a wide selection of laminate styles and colors to match any decor. Our experienced installers ensure a precise and professional installation. Laminate flooring is resistant to scratches, stains, and fading, making it ideal for high-traffic areas and homes with pets. It's also easy to clean and maintain, requiring only regular sweeping and mopping. We work closely with you to select the perfect laminate flooring for your needs and budget. Our installation process includes proper subfloor preparation and moisture barrier installation to prevent warping and damage. Whether you're updating a rental property or renovating your own home, laminate flooring is a smart and stylish choice.",
+        "process": [
+          "Step 1: Site Inspection and Preparation",
+          "Step 2: Moisture Barrier Installation",
+          "Step 3: Precise Laminate Cutting and Installation",
+          "Step 4: Finishing Touches and Cleanup"
+        ],
+        "benefits": [
+          "Affordable and budget-friendly",
+          "Durable and scratch-resistant",
+          "Easy to clean and maintain",
+          "Wide variety of styles and colors"
+        ],
+        "faq": [
+          {
+            "question": "Is laminate flooring waterproof?",
+            "answer": "While most laminate flooring is water-resistant, it's not completely waterproof. We recommend choosing a water-resistant laminate for bathrooms and kitchens."
+          },
+          {
+            "question": "How long does laminate flooring last?",
+            "answer": "With proper care and maintenance, laminate flooring can last for 10-20 years or more."
+          },
+          {
+            "question": "Can I install laminate flooring myself?",
+            "answer": "While it's possible to install laminate flooring yourself, we recommend professional installation to ensure a proper and long-lasting result."
+          }
+        ]
+      },
+      {
+        "slug": "vinyl-flooring",
+        "name": "Vinyl Flooring",
+        "shortDescription": "Waterproof and stylish vinyl flooring for kitchens, bathrooms, and more.",
+        "description": "Vinyl flooring is an excellent choice for Bakersfield homes due to its durability and water resistance, particularly important in areas prone to leaks or spills. We offer a wide range of vinyl flooring options, including luxury vinyl plank (LVP) and sheet vinyl, in various styles and colors. Our skilled installers ensure a seamless and waterproof installation. Vinyl flooring is easy to clean and maintain, making it ideal for busy families and pet owners. It's also comfortable underfoot and provides excellent sound insulation. We work closely with you to select the perfect vinyl flooring for your needs and budget. Our installation process includes proper subfloor preparation and adhesive application to prevent bubbling and warping. Whether you're updating your bathroom, kitchen, or laundry room, vinyl flooring is a practical and stylish choice.",
+        "process": [
+          "Step 1: Subfloor Evaluation and Preparation",
+          "Step 2: Precise Measurement and Cutting",
+          "Step 3: Secure Vinyl Installation",
+          "Step 4: Seam Sealing and Finishing"
+        ],
+        "benefits": [
+          "Waterproof and stain-resistant",
+          "Durable and long-lasting",
+          "Easy to clean and maintain",
+          "Comfortable underfoot and quiet"
+        ],
+        "faq": [
+          {
+            "question": "Is vinyl flooring suitable for bathrooms?",
+            "answer": "Yes, vinyl flooring is an excellent choice for bathrooms due to its waterproof properties."
+          },
+          {
+            "question": "How do I clean vinyl flooring?",
+            "answer": "Vinyl flooring can be easily cleaned with a damp mop and mild detergent."
+          },
+          {
+            "question": "What is the difference between sheet vinyl and LVP?",
+            "answer": "Sheet vinyl comes in large rolls and provides a seamless surface. LVP comes in individual planks that click together, mimicking the look of hardwood or tile."
+          }
+        ]
+      },
+      {
+        "slug": "countertop-installation",
+        "name": "Countertop Installation",
+        "shortDescription": "Expert countertop installation services for kitchens and bathrooms.",
+        "description": "We offer professional countertop installation services in Bakersfield, providing a wide range of materials including granite, quartz, marble, and laminate. Our experienced team ensures precise measurements, seamless installation, and a stunning finish. We understand that countertops are a focal point in any kitchen or bathroom, and we take pride in delivering exceptional results. Whether you're renovating your entire kitchen or simply replacing your countertops, we have the expertise to handle any project. We work closely with you to select the perfect material and design to complement your space. Our installation process includes careful removal of your old countertops, precise cutting and fitting of the new countertops, and secure installation with high-quality adhesives and sealants. We also offer countertop repair and maintenance services to keep your countertops looking their best.",
+        "process": [
+          "Step 1: Material Selection and Design Consultation",
+          "Step 2: Precise Measurement and Template Creation",
+          "Step 3: Expert Cutting and Fabrication",
+          "Step 4: Professional Installation and Sealing"
+        ],
+        "benefits": [
+          "Enhanced aesthetics and functionality",
+          "Increased home value",
+          "Durable and long-lasting surface",
+          "Customized design to match your style"
+        ],
+        "faq": [
+          {
+            "question": "What types of countertop materials do you offer?",
+            "answer": "We offer a wide range of countertop materials, including granite, quartz, marble, laminate, and solid surface. We can help you choose the best option for your needs and budget."
+          },
+          {
+            "question": "How long does countertop installation take?",
+            "answer": "The duration of countertop installation depends on the size and complexity of the project. We provide a detailed timeline during the consultation phase."
+          },
+          {
+            "question": "Do you offer countertop repair services?",
+            "answer": "Yes, we offer countertop repair services to address cracks, chips, and stains. We can also reseal your countertops to protect them from damage."
+          }
+        ]
+      },
+      {
+        "slug": "flooring-repair",
+        "name": "Flooring Repair",
+        "shortDescription": "Reliable flooring repair services to restore your floors to their former glory.",
+        "description": "From water damage in older Bakersfield homes near the Kern River Parkway to wear and tear in newer suburban developments, flooring can take a beating. Superior Tile & Countertops provides comprehensive flooring repair services to address a wide range of issues. We repair hardwood, tile, laminate, and vinyl flooring, restoring them to their former glory. Our experienced technicians diagnose the problem accurately and provide effective solutions. We handle everything from replacing damaged planks and tiles to repairing subfloor issues and addressing water damage. We understand the importance of a properly installed and maintained floor, and we're committed to providing reliable and affordable repair services. Our goal is to extend the life of your flooring and save you the cost of a full replacement.",
+        "process": [
+          "Step 1: Thorough Damage Assessment",
+          "Step 2: Material Sourcing and Matching",
+          "Step 3: Expert Repair and Restoration",
+          "Step 4: Sealing and Finishing Touches"
+        ],
+        "benefits": [
+          "Extends the life of your flooring",
+          "Saves you money on replacement costs",
+          "Restores the beauty of your floors",
+          "Prevents further damage"
+        ],
+        "faq": [
+          {
+            "question": "What types of flooring do you repair?",
+            "answer": "We repair hardwood, tile, laminate, and vinyl flooring. We can address a wide range of issues, including water damage, cracks, chips, and loose planks or tiles."
+          },
+          {
+            "question": "How much does flooring repair cost?",
+            "answer": "The cost of flooring repair depends on the extent of the damage and the type of flooring. We provide a free estimate after assessing the damage."
+          },
+          {
+            "question": "Do you offer emergency flooring repair services?",
+            "answer": "Yes, we offer emergency flooring repair services for urgent situations, such as water damage or safety hazards."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Bakersfield",
+        "slug": "bakersfield-ca",
+        "state": "CA",
+        "content": "Superior Tile & Countertops is proud to offer comprehensive flooring and countertop services to the residents and businesses of Bakersfield, California. We understand the unique needs of this vibrant community and are committed to providing top-quality workmanship and exceptional customer service. Whether you're looking to upgrade your kitchen with stunning new countertops or transform your floors with beautiful tile, we have the expertise and resources to bring your vision to life.\n\nOur team of experienced professionals is dedicated to delivering outstanding results that exceed your expectations. We use only the highest quality materials and employ proven techniques to ensure that your project is completed to the highest standards. From initial consultation to final installation, we'll work closely with you every step of the way to ensure your complete satisfaction.\n\nWe offer a wide range of flooring and countertop options to suit any style and budget. Contact us today to schedule a free consultation and let us help you create the home of your dreams.",
+        "localContext": "Bakersfield is a major city in California's San Joaquin Valley, known for its agricultural industry and country music heritage.",
+        "nearbyAreas": [
+          "Oildale",
+          "Rosedale",
+          "Lamont"
+        ]
+      },
+      {
+        "city": "Oildale",
+        "slug": "oildale-ca",
+        "state": "CA",
+        "content": "Superior Tile & Countertops extends its expert flooring and countertop services to Oildale, CA, a community with a rich history and strong ties to the oil industry. We understand the specific needs of Oildale residents and businesses, offering tailored solutions for every project, big or small. From durable and stylish flooring options that can withstand heavy use to elegant countertops that enhance any space, we're committed to providing exceptional quality and value.\n\nOur team of skilled installers is familiar with the unique challenges of working in older homes and commercial buildings, ensuring that every installation is done right the first time. We take pride in our attention to detail and our commitment to customer satisfaction. We also offer a wide variety of tile and countertop materials to choose from.\n\nLet Superior Tile & Countertops help you transform your Oildale property with beautiful and long-lasting flooring and countertops. Contact us today for a free estimate!",
+        "localContext": "Oildale is a census-designated place north of Bakersfield, historically significant for its role in California's oil boom.",
+        "nearbyAreas": [
+          "Bakersfield",
+          "Rosedale",
+          "Shafter"
+        ]
+      },
+      {
+        "city": "Rosedale",
+        "slug": "rosedale-ca",
+        "state": "CA",
+        "content": "Superior Tile & Countertops is pleased to serve the growing community of Rosedale, CA, with our comprehensive flooring and countertop services. We recognize the diverse needs of Rosedale homeowners and businesses and are dedicated to providing high-quality products and expert installation services.\n\nWhether you're building a new home, remodeling your existing space, or simply looking to upgrade your floors or countertops, we have the expertise and resources to help you achieve your goals. We offer a wide selection of materials, styles, and colors to suit any taste and budget. We are experts at installing tile, hardwood, laminate, and many other flooring types.\n\nAt Superior Tile & Countertops, we believe in providing our customers with exceptional value and outstanding customer service. Contact us today to learn more about our services and to schedule a free consultation.",
+        "localContext": "Rosedale is a suburban community northwest of Bakersfield experiencing rapid growth and development.",
+        "nearbyAreas": [
+          "Bakersfield",
+          "Shafter",
+          "Rio Bravo"
+        ]
+      },
+      {
+        "city": "Shafter",
+        "slug": "shafter-ca",
+        "state": "CA",
+        "content": "Superior Tile & Countertops proudly serves Shafter, CA, providing top-notch flooring and countertop solutions to homeowners and businesses alike. We understand the importance of quality and durability in a community known for its agricultural roots, and we're committed to delivering products and services that stand the test of time.\n\nFrom durable tile flooring for high-traffic areas to elegant countertops that enhance the beauty of your kitchen or bathroom, we offer a wide range of options to suit any style and budget. Our experienced installers are experts at their craft, ensuring that every project is completed to the highest standards.\n\nWe are committed to providing exceptional customer service and building long-lasting relationships with our clients in Shafter. Contact us today to discuss your flooring and countertop needs and to schedule a free consultation.",
+        "localContext": "Shafter is a city in the San Joaquin Valley, known for its agriculture and location along Highway 99.",
+        "nearbyAreas": [
+          "Wasco",
+          "Rosedale",
+          "McFarland"
+        ]
+      },
+      {
+        "city": "Wasco",
+        "slug": "wasco-ca",
+        "state": "CA",
+        "content": "Superior Tile & Countertops extends its professional flooring and countertop services to Wasco, CA. We're dedicated to serving the residents and businesses in this community, known for its beautiful rose gardens and strong agricultural presence. We offer customized solutions to fit every project, from residential upgrades to commercial renovations.\n\nOur team of skilled professionals uses only the highest quality materials and proven installation methods to ensure lasting beauty and functionality. Whether you're looking for durable flooring to withstand heavy foot traffic or elegant countertops to enhance your kitchen or bathroom, we have the expertise and resources to bring your vision to life.\n\nContact Superior Tile & Countertops today for a free consultation and experience the difference that quality and expertise can make in your next flooring or countertop project in Wasco.",
+        "localContext": "Wasco is a city in Kern County famous for its rose industry and annual Festival of Roses.",
+        "nearbyAreas": [
+          "Shafter",
+          "Lost Hills",
+          "McFarland"
+        ]
+      },
+      {
+        "city": "McFarland",
+        "slug": "mcfarland-ca",
+        "state": "CA",
+        "content": "Superior Tile & Countertops is proud to offer its expert flooring and countertop services to McFarland, CA. We understand the unique character of this community and are dedicated to providing high-quality solutions that meet the needs of local homeowners and businesses. Whether you're looking to upgrade your kitchen, bathroom, or any other space, we have the expertise and resources to help you achieve your goals.\n\nOur team of experienced professionals is committed to delivering exceptional workmanship and outstanding customer service. We use only the finest materials and employ proven techniques to ensure that your project is completed to the highest standards. We offer a wide variety of flooring and countertop options to suit any style and budget.\n\nLet Superior Tile & Countertops help you transform your McFarland property with beautiful and durable flooring and countertops. Contact us today to schedule a free consultation.",
+        "localContext": "McFarland is a city in Kern County known for its agriculture and strong community spirit.",
+        "nearbyAreas": [
+          "Delano",
+          "Wasco",
+          "Shafter"
+        ]
+      },
+      {
+        "city": "Delano",
+        "slug": "delano-ca",
+        "state": "CA",
+        "content": "Superior Tile & Countertops is committed to providing exceptional flooring and countertop services to the community of Delano, CA. We recognize the importance of quality and value, and we strive to exceed our customers' expectations with every project. Whether you're renovating your home or upgrading your business space, we have the expertise and resources to deliver outstanding results.\n\nOur team of skilled installers is dedicated to providing meticulous craftsmanship and attention to detail. We use only the highest quality materials and employ proven techniques to ensure that your flooring and countertops are installed correctly and will last for years to come. We offer a wide range of styles, colors, and materials to suit any taste and budget.\n\nContact Superior Tile & Countertops today to schedule a free consultation and let us help you transform your Delano property with beautiful and durable flooring and countertops.",
+        "localContext": "Delano is a city in Kern County with a significant agricultural industry and a rich history of labor activism.",
+        "nearbyAreas": [
+          "McFarland",
+          "Earlimart",
+          "Wasco"
+        ]
+      },
+      {
+        "city": "Lamont",
+        "slug": "lamont-ca",
+        "state": "CA",
+        "content": "Superior Tile & Countertops proudly extends its services to Lamont, CA, providing quality flooring and countertop solutions to this vibrant community. We understand the needs of homeowners and businesses in Lamont and are committed to delivering exceptional workmanship and outstanding customer service.\n\nWhether you're looking to upgrade your kitchen, bathroom, or any other space, we have the expertise and resources to help you achieve your goals. We offer a wide range of flooring and countertop options to suit any style and budget, from classic tile to modern quartz.\n\nOur team of experienced professionals is dedicated to ensuring your complete satisfaction. Contact Superior Tile & Countertops today to schedule a free consultation and let us help you transform your Lamont property.",
+        "localContext": "Lamont is a census-designated place southeast of Bakersfield, known for its agricultural activities.",
+        "nearbyAreas": [
+          "Arvin",
+          "Bakersfield",
+          "Weedpatch"
+        ]
+      },
+      {
+        "city": "Arvin",
+        "slug": "arvin-ca",
+        "state": "CA",
+        "content": "Superior Tile & Countertops is pleased to offer its comprehensive flooring and countertop services to the residents and businesses of Arvin, CA. We understand the unique needs of this community and are committed to providing high-quality products and expert installation services. Whether you're renovating your home, upgrading your business, or building from the ground up, we have the solutions you need.\n\nOur team of experienced professionals is dedicated to delivering exceptional results that exceed your expectations. We use only the finest materials and employ proven techniques to ensure that your project is completed to the highest standards. We are committed to working with you every step of the way.\n\nContact Superior Tile & Countertops today to schedule a free consultation and let us help you transform your Arvin property with beautiful and durable flooring and countertops.",
+        "localContext": "Arvin is a city located in the San Joaquin Valley, known for its agriculture and strong community values.",
+        "nearbyAreas": [
+          "Lamont",
+          "Weedpatch",
+          "Bakersfield"
+        ]
+      },
+      {
+        "city": "Tehachapi",
+        "slug": "tehachapi-ca",
+        "state": "CA",
+        "content": "Superior Tile & Countertops now serves Tehachapi, CA, bringing top-quality flooring and countertop services to this mountain community. We understand the unique needs of Tehachapi residents, including the desire for durable and stylish materials that can withstand the local climate. We are committed to providing exceptional workmanship and personalized service to every customer.\n\nOur team of experienced professionals is dedicated to delivering outstanding results that exceed your expectations. We use only the highest quality materials and employ proven techniques to ensure that your project is completed to the highest standards. We work closely with you every step of the way to ensure your complete satisfaction.\n\nIf you are looking to upgrade your home or business, contact Superior Tile & Countertops for a free consultation. Let us show you what we can do.",
+        "localContext": "Tehachapi is a city in the Tehachapi Mountains, known for its wind energy and scenic beauty.",
+        "nearbyAreas": [
+          "California City",
+          "Mojave",
+          "Rosamond"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Maria S.",
+        "rating": 5,
+        "service": "Tile Installation",
+        "text": "Superior Tile & Countertops did an amazing job installing new tile in my kitchen. The installers were professional, efficient, and paid attention to every detail. The finished product looks fantastic, and I couldn't be happier!",
+        "date": "2024-08-15"
+      },
+      {
+        "name": "David K.",
+        "rating": 4,
+        "service": "Hardwood Flooring",
+        "text": "I hired Superior Tile to install hardwood flooring in my living room. The quality of the work was excellent, and the floors look beautiful. There was a slight delay due to a material shortage, but they communicated effectively and kept me informed throughout the process.",
+        "date": "2024-09-22"
+      },
+      {
+        "name": "Jessica L.",
+        "rating": 5,
+        "service": "Laminate Flooring",
+        "text": "We had Superior Tile install laminate flooring in our basement, and we are very pleased with the results. The price was competitive, and the installation was quick and efficient. The floors look great and are easy to clean.",
+        "date": "2024-10-05"
+      },
+      {
+        "name": "Robert B.",
+        "rating": 5,
+        "service": "Countertop Installation",
+        "text": "Superior Tile & Countertops installed new granite countertops in my kitchen, and they did a fantastic job. The installers were very professional and took great care to protect my cabinets and appliances. The countertops look amazing, and I'm thrilled with the results.",
+        "date": "2024-11-12"
+      },
+      {
+        "name": "Emily R.",
+        "rating": 4,
+        "service": "Flooring Repair",
+        "text": "I had some water damage in my bathroom, and Superior Tile & Countertops repaired the damaged tiles quickly and efficiently. The repair work was seamless, and you can't even tell that there was any damage. I was very impressed with their service.",
+        "date": "2024-12-01"
+      },
+      {
+        "name": "Michael T.",
+        "rating": 5,
+        "service": "Vinyl Flooring",
+        "text": "We chose Superior Tile for our vinyl flooring project because of their reputation in Bakersfield. From helping us select waterproof vinyl to the final installation, we were very impressed. Our new laundry room floor looks great!",
+        "date": "2025-01-10"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Superior Tile & Countertops | Bakersfield Flooring",
+        "description": "Bakersfield's top flooring contractor. Tile, hardwood, laminate, vinyl, countertops. Expert installation & repair. Free estimates!"
+      },
+      "about": {
+        "title": "About Superior Tile & Countertops | Bakersfield, CA",
+        "description": "Learn about Superior Tile & Countertops, Bakersfield's trusted flooring experts. Quality craftsmanship and customer satisfaction guaranteed."
+      },
+      "services": {
+        "title": "Flooring Services | Superior Tile & Countertops",
+        "description": "Tile, hardwood, laminate, vinyl, countertops installation & repair in Bakersfield. Transform your home with our expert flooring solutions."
+      },
+      "contact": {
+        "title": "Contact Superior Tile & Countertops | Bakersfield",
+        "description": "Contact Superior Tile & Countertops for free flooring estimates in Bakersfield, CA. Call us today to schedule your consultation!"
+      },
+      "reviews": {
+        "title": "Customer Reviews | Superior Tile & Countertops",
+        "description": "Read what our satisfied customers are saying about Superior Tile & Countertops' flooring services in Bakersfield. See our quality and commitment!"
+      },
+      "service-areas": {
+        "title": "Service Areas | Superior Tile & Countertops",
+        "description": "Superior Tile & Countertops provides flooring services in Bakersfield and surrounding areas. Check our service area coverage and contact us today!"
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "tile-installation": "/images/service-tile-installation.webp",
+      "hardwood-flooring": "/images/service-hardwood-flooring.webp",
+      "laminate-flooring": "/images/service-laminate-flooring.webp",
+      "vinyl-flooring": "/images/service-vinyl-flooring.webp",
+      "countertop-installation": "/images/service-countertop-installation.webp",
+      "flooring-repair": "/images/service-flooring-repair.webp"
+    },
+    "servicesResponsive": {
+      "tile-installation": {
+        "src": "/images/service-tile-installation.webp",
+        "srcset": "/images/service-tile-installation-400w.webp 400w, /images/service-tile-installation-800w.webp 800w, /images/service-tile-installation-1200w.webp 1200w, /images/service-tile-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "hardwood-flooring": {
+        "src": "/images/service-hardwood-flooring.webp",
+        "srcset": "/images/service-hardwood-flooring-400w.webp 400w, /images/service-hardwood-flooring-800w.webp 800w, /images/service-hardwood-flooring-1200w.webp 1200w, /images/service-hardwood-flooring.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "laminate-flooring": {
+        "src": "/images/service-laminate-flooring.webp",
+        "srcset": "/images/service-laminate-flooring-400w.webp 400w, /images/service-laminate-flooring-800w.webp 800w, /images/service-laminate-flooring-1200w.webp 1200w, /images/service-laminate-flooring.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "vinyl-flooring": {
+        "src": "/images/service-vinyl-flooring.webp",
+        "srcset": "/images/service-vinyl-flooring-400w.webp 400w, /images/service-vinyl-flooring-800w.webp 800w, /images/service-vinyl-flooring-1200w.webp 1200w, /images/service-vinyl-flooring.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "countertop-installation": {
+        "src": "/images/service-countertop-installation.webp",
+        "srcset": "/images/service-countertop-installation-400w.webp 400w, /images/service-countertop-installation-800w.webp 800w, /images/service-countertop-installation-1200w.webp 1200w, /images/service-countertop-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "flooring-repair": {
+        "src": "/images/service-flooring-repair.webp",
+        "srcset": "/images/service-flooring-repair-400w.webp 400w, /images/service-flooring-repair-800w.webp 800w, /images/service-flooring-repair-1200w.webp 1200w, /images/service-flooring-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
